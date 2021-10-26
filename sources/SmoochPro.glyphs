@@ -4,7 +4,8 @@ DisplayStrings = (
 abcdefghijklmnopqrstuvwxyz,
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "Ac\012Ad\012Ae\012Ag\012Ao\012Aq\012As\012At\012Au\012Av\012Aw\012Ay\012Bv\012Bw\012Bx\012By\012Bz\012Ca\012Cc\012Cd\012Ce\012Co\012Cv\012Cw\012Cy\012Ev\012Ew\012Ex\012Ey\012Ez\012Fa\012Fc\012Fd\012Fe\012Ff\012Fg\012Fm\012Fn\012Fo\012Fq\012Fs\012Ft\012Fu\012Fv\012Fw\012Fx\012Fy\012Fz\012Ja\012Jc\012Jd\012Je\012Jg\012Jo\012Jq\012Ka\012Kc\012Kd\012Ke\012Kg\012Ko\012Kq\012Ks\012Kt\012Ku\012Kv\012Kw\012Ky\012Lc\012Ld\012Le\012Lg\012Lf\012Lo\012Lq\012Lt\012Lu\012Lv\012Lw\012Lx\012Pa\012Pc\012Pd\012Pe\012Pg\012Po\012Pq\012Ps\012Pt\012Pu\012Pv\012Pw\012Px\012Py\012Pz\012Qj\012Ra\012Rc\012Rd\012Re\012Rg\012Ro\012Rq\012Rt\012Ru\012Rv\012Rw\012Rx\012Ry\012Sv\012Sw\012Sx\012Sy\012Ta\012Tc\012Td\012Te\012Tg\012Tn\012To\012Tq\012Ts\012Tu\012Tv\012Tw\012Tx\012Ty\012Tz\012Ua\012Uc\012Ud\012Ue\012Ug\012Uo\012Uq\012Uv\012Uw\012Ux\012Uy\012Uz\012Va\012Vc\012Vd\012Ve\012Vg\012Vn\012Vo\012Vp\012Vq\012Vr\012Vs\012Vu\012Vv\012Vw\012Vx\012Vy\012Vz\012Wa\012Wc\012Wd\012We\012Wg\012Wn\012Wo\012Wp\012Wq\012Wr\012Ws\012Wu\012Wv\012Ww\012Wx\012Wy\012Wz\012Xc\012Xd\012Xe\012Xg\012Xo\012Xq\012Xu\012Xv\012Xw\012Xy\012Ya\012Yc\012Yd\012Ye\012Yg\012Yn\012Yo\012Yq\012Ys\012Yt\012Yu\012Yv\012Yw\012Yx\012Yy\012Yz\012Zv\012Zw\012Zy\012",
-"/icircumflex.ss01"
+"/icircumflex.ss01",
+"a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month"
 );
 copyright = "Copyright 2017 The Smooch Project Authors (https://github.com/googlefonts/smooch";
 customParameters = (
@@ -168,31 +169,35 @@ capHeight = 640;
 customParameters = (
 {
 name = typoAscender;
-value = 814;
+value = 900;
 },
 {
 name = typoDescender;
-value = -456;
+value = -450;
 },
 {
 name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 814;
-},
-{
-name = winDescent;
-value = 456;
-},
-{
 name = hheaAscender;
-value = 814;
+value = 900;
 },
 {
 name = hheaDescender;
-value = -456;
+value = -450;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 900;
+},
+{
+name = winDescent;
+value = 450;
 },
 {
 name = strikeoutPosition;
@@ -129566,5 +129571,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
