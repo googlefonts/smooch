@@ -24,7 +24,10 @@ DisplayStrings = (
 "/zero.lf",
 "/zero.lf",
 "/Oslash.ss01",
-"/Oslash.ss01/Oslashacute.ss01"
+"/Oslash.ss01/Oslashacute.ss01",
+"h/hbar",
+"/h.ss01/hbar.ss01",
+"h/hbar"
 );
 classes = (
 {
@@ -42527,7 +42530,7 @@ unicode = 0121;
 },
 {
 glyphname = h;
-lastChange = "2021-10-27 05:20:34 +0000";
+lastChange = "2021-10-27 06:17:43 +0000";
 layers = (
 {
 anchors = (
@@ -42537,7 +42540,7 @@ position = "{201, 0}";
 },
 {
 name = center;
-position = "{153, 344}";
+position = "{280, 455}";
 },
 {
 name = top;
@@ -42801,7 +42804,7 @@ unicode = 0068;
 },
 {
 glyphname = hbar;
-lastChange = "2021-10-26 13:44:22 +0000";
+lastChange = "2021-10-27 06:17:43 +0000";
 layers = (
 {
 background = {
@@ -42820,7 +42823,7 @@ name = h;
 },
 {
 name = strokeshortcomb;
-transform = "{1, 0, 0, 1, 11, 200}";
+transform = "{1, 0, 0, 1, 138, 311}";
 }
 );
 layerId = "B9003040-D3EC-4996-96A5-33D5E21FF9E0";
@@ -62488,7 +62491,7 @@ width = 369;
 },
 {
 glyphname = h.ss01;
-lastChange = "2021-10-27 05:20:34 +0000";
+lastChange = "2021-10-27 06:17:36 +0000";
 layers = (
 {
 anchors = (
@@ -62498,7 +62501,7 @@ position = "{201, 0}";
 },
 {
 name = center;
-position = "{156, 325}";
+position = "{325, 530}";
 },
 {
 name = top;
@@ -62775,7 +62778,7 @@ note = h.1;
 },
 {
 glyphname = hbar.ss01;
-lastChange = "2021-10-27 05:19:41 +0000";
+lastChange = "2021-10-27 06:17:36 +0000";
 layers = (
 {
 background = {
@@ -62794,7 +62797,7 @@ name = h.ss01;
 },
 {
 name = strokeshortcomb;
-transform = "{1, 0, 0, 1, 14, 181}";
+transform = "{1, 0, 0, 1, 183, 386}";
 }
 );
 layerId = "B9003040-D3EC-4996-96A5-33D5E21FF9E0";
